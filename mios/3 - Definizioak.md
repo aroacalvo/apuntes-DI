@@ -25,11 +25,11 @@
   - Bertikala - scale up
     - Makina bakar baten errekurtsoak handitu (adb: +RAM)
     - Erraza egiteko eta azpiegitura ez da aldatzen, baina ezin da betirako egin (hardware limitea)
-    ![scale up](scale-up.png)
+    ![scale up](..\img\scale-up.png)
   - Horizontala - scale out
     - Makina gehiago gehitu sisteman
     - Eskalagarria baina konplexua, load balancing behar du
-    ![scale-out](scale-out.png)
+    ![scale-out](..\img\scale-out.png)
 
 ## Elastikotasuna - elasticity
 

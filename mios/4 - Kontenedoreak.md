@@ -55,12 +55,12 @@ Bi kontenedore mota hauek kernelaren ezaugarri berdinetan oinarritzen dira (aurr
 **Aplikazio kontenedoreak**:
 Apikazio edo zerbitzu bakarra exekutatzeko diseinatuta.
 
-![kontenedoreak1](kontenedoreak1.png)
+![kontenedoreak1](..\img\kontenedoreak1.png)
 
 **Sistema kontenedoreak**:
 Sistema operatibo oso bat bezala funtzionatzeko diseinatutako kontenedoreak.
 
-![kontenedoreak2](kontenedoreak2.png)
+![kontenedoreak2](..\img\kontenedoreak2.png)
 
 ## Kernel ezaugarriak
 
@@ -119,7 +119,7 @@ Namespaces isolate what a process can see and access, making it feel like it has
 - Prozesu bati erro karpeta aldatzeko syscall-a
 - Changes the apparent root directory for a process, making it see only a subset of the filesystem
 
-![kontenedoreak3](kontenedoreak3.png)
+![kontenedoreak3](..\img\kontenedoreak3.png)
 
 ### copy-on-write
 

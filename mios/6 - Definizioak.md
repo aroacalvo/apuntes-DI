@@ -7,7 +7,7 @@ Gordailu zentralizatua, iturri askotako datu egituratuak gordetzen dituena infor
 ## Data Mart
 
 Data Warehouse baten azpimultzo txikiago bat, zentratua, departamentu edo negozio batean zentratuta.
-![data-mart](data-mart.png)
+![data-mart](..\img\data-mart.png)
 
 ## Data Lake
 

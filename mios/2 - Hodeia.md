@@ -16,7 +16,7 @@
 - Red Hat Virtualization
 - Oracle VM VirtualBox
 
-![Birtualizazio plataformak](.\img\birtualizazio-plataformak.png)
+![Birtualizazio plataformak](..\img\birtualizazio-plataformak.png)
 
 ## IaS (Infrastructure as Code)
 
@@ -38,4 +38,4 @@
   - OpenTofu -> komunitateak sortutako Terraform-en aldaera
   - Ansible -> konfigurazioak kudeatzeko eta automatizaziorako
 
-![ias](.\img\ias.png)
+![ias](..\img\ias.png)

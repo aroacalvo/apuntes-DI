@@ -19,4 +19,4 @@
 - Konputazio gailu askotan paraleloki datu kantitate izugarri handiak prozesatzeko programazio-eredua
 - Ez da ez deklaratibo, ez inperatibo
 
-![mapreduce](mapreduce.png)
+![mapreduce](..\img\mapreduce.png)
